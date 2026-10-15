@@ -21,10 +21,6 @@ Both modules are included in Python's standard library.
 
 ## Getting Started
 
-### Prerequisites
-
-Install Python 3 from https://www.python.org/downloads/
-
 ### Installation
 
 Clone the repository:
